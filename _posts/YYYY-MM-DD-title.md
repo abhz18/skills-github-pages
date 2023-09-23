@@ -1,2 +1,4 @@
-# today's date
-2023/09/23
+---
+title: "today's blog"
+date: 2023-09-23
+---
